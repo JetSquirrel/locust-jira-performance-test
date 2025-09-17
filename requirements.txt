@@ -1,0 +1,4 @@
+locust==2.16.1
+requests==2.31.0
+python-decouple==3.8
+faker==19.6.2
